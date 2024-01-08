@@ -1,0 +1,1562 @@
+[
+    {
+        "Episode Number": 1,
+        "Episode Name": "392: \u2018Halos and Harps\u2019, With Casey Liss",
+        "Episode Length (Seconds)": 11553
+    },
+    {
+        "Episode Number": 2,
+        "Episode Name": "391: \u2018Error -37\u2019, With John Siracusa",
+        "Episode Length (Seconds)": 9814
+    },
+    {
+        "Episode Number": 3,
+        "Episode Name": "390: \u2018The Blurry Edge of Acceptable\u2019, With Nilay Patel",
+        "Episode Length (Seconds)": 7350
+    },
+    {
+        "Episode Number": 4,
+        "Episode Name": "389: \u2018Two-Legged Stool\u2019, With Gabe Rivera",
+        "Episode Length (Seconds)": 7350
+    },
+    {
+        "Episode Number": 5,
+        "Episode Name": "388: \u2018What the Actual\u2019, With Christina Warren",
+        "Episode Length (Seconds)": 7877
+    },
+    {
+        "Episode Number": 6,
+        "Episode Name": "387: \u2018Are There Ever Too Many Love Songs?\u2019, With Sebastiaan de With and Ben Sandofsky",
+        "Episode Length (Seconds)": 7335
+    },
+    {
+        "Episode Number": 7,
+        "Episode Name": "386: \u2018Gate Number Two\u2019, With John Moltz",
+        "Episode Length (Seconds)": 5450
+    },
+    {
+        "Episode Number": 8,
+        "Episode Name": "385: \u2018Who\u2019s Heef?\u2019, With Matthew Panzarino",
+        "Episode Length (Seconds)": 7930
+    },
+    {
+        "Episode Number": 9,
+        "Episode Name": "384: \u2018Pleading the Fifth\u2019, With Michael Simmons",
+        "Episode Length (Seconds)": 4737
+    },
+    {
+        "Episode Number": 10,
+        "Episode Name": "383: \u2018A Photocopy of a Fax\u2019, With Jason Snell",
+        "Episode Length (Seconds)": 9963
+    },
+    {
+        "Episode Number": 11,
+        "Episode Name": "382: \u2018What\u2019s Happening\u203d\u2019, With Craig Hockenberry",
+        "Episode Length (Seconds)": 5983
+    },
+    {
+        "Episode Number": 12,
+        "Episode Name": "381: \u2018Tape Deck Dongle\u2019, With Joanna Stern",
+        "Episode Length (Seconds)": 6926
+    },
+    {
+        "Episode Number": 13,
+        "Episode Name": "380: \u2018The M Is for Magnificent\u2019, With Matthew Panzarino",
+        "Episode Length (Seconds)": 7464
+    },
+    {
+        "Episode Number": 14,
+        "Episode Name": "379: \u2018An Extra Kick in the Nuts\u2019, With Christian Selig",
+        "Episode Length (Seconds)": 6930
+    },
+    {
+        "Episode Number": 15,
+        "Episode Name": "378: \u2018Live From WWDC 2023\u2019, With John Ternus, Mike Rockwell, Craig Federighi, and Greg Joswiak",
+        "Episode Length (Seconds)": 7152
+    },
+    {
+        "Episode Number": 16,
+        "Episode Name": "377: \u2018guyenglish.zip\u2019, With Guy English",
+        "Episode Length (Seconds)": 7090
+    },
+    {
+        "Episode Number": 17,
+        "Episode Name": "376: \u2018One True HIG\u2019, With Neil Jhaveri",
+        "Episode Length (Seconds)": 6224
+    },
+    {
+        "Episode Number": 18,
+        "Episode Name": "375: \u2018No False Humidity\u2019, With Jason Snell",
+        "Episode Length (Seconds)": 7865
+    },
+    {
+        "Episode Number": 19,
+        "Episode Name": "374: \u2018The Paul McCartney of Car Salesmen\u2019, With John Moltz",
+        "Episode Length (Seconds)": 6502
+    },
+    {
+        "Episode Number": 20,
+        "Episode Name": "373: \u2018This Guy Reads a Lot Better\u2019, With Quinn Nelson",
+        "Episode Length (Seconds)": 6782
+    },
+    {
+        "Episode Number": 21,
+        "Episode Name": "372: \u2018$8 Billion in Late Fees\u2019, With Rene Ritchie",
+        "Episode Length (Seconds)": 5906
+    },
+    {
+        "Episode Number": 22,
+        "Episode Name": "371: \u2018The Skin of Your Pants\u2019, With Daniel Jalkut",
+        "Episode Length (Seconds)": 8551
+    },
+    {
+        "Episode Number": 23,
+        "Episode Name": "370: \u2018Fine Hypertext Products\u2019, With Jason Kottke",
+        "Episode Length (Seconds)": 11568
+    },
+    {
+        "Episode Number": 24,
+        "Episode Name": "369: \u201818-Hour Bombing Mission\u2019, With Marco Arment",
+        "Episode Length (Seconds)": 11518
+    },
+    {
+        "Episode Number": 25,
+        "Episode Name": "368: \u2018Tweeter and the Monkey Man\u2019, With Dan Moren",
+        "Episode Length (Seconds)": 6000
+    },
+    {
+        "Episode Number": 26,
+        "Episode Name": "367: \u2018Slow-Moving Hurricane\u2019, With Craig Hockenberry",
+        "Episode Length (Seconds)": 10234
+    },
+    {
+        "Episode Number": 27,
+        "Episode Name": "366: \u2018Measure Seven Times, Cut Once\u2019, With Glenn Fleishman",
+        "Episode Length (Seconds)": 9206
+    },
+    {
+        "Episode Number": 28,
+        "Episode Name": "365: \u2018Permanent September\u2019, With Rene Ritchie",
+        "Episode Length (Seconds)": 9912
+    },
+    {
+        "Episode Number": 29,
+        "Episode Name": "364: \u2018Spooky Hole\u2019, With John Moltz",
+        "Episode Length (Seconds)": 8517
+    },
+    {
+        "Episode Number": 30,
+        "Episode Name": "363: \u2018Deliberately Churned\u2019, With Christina Warren",
+        "Episode Length (Seconds)": 8103
+    },
+    {
+        "Episode Number": 31,
+        "Episode Name": "362: \u2018Grand Scale Foot-Shooting\u2019, With Anil Dash",
+        "Episode Length (Seconds)": 8069
+    },
+    {
+        "Episode Number": 32,
+        "Episode Name": "361: \u2018A Fit of Pique\u2019, With Federico Viticci",
+        "Episode Length (Seconds)": 8993
+    },
+    {
+        "Episode Number": 33,
+        "Episode Name": "360: \u2018Neither Fish Nor Fowl\u2019, With Jason Snell",
+        "Episode Length (Seconds)": 9088
+    },
+    {
+        "Episode Number": 34,
+        "Episode Name": "359: \u2018Big Booger Came After You\u2019, With Merlin Mann",
+        "Episode Length (Seconds)": 5863
+    },
+    {
+        "Episode Number": 35,
+        "Episode Name": "358: \u2018Double-Digit Domains\u2019, With Paul Kafasis",
+        "Episode Length (Seconds)": 9040
+    },
+    {
+        "Episode Number": 36,
+        "Episode Name": "357: \u2018Fluent Cupertinoese\u2019, With Nilay Patel",
+        "Episode Length (Seconds)": 11651
+    },
+    {
+        "Episode Number": 37,
+        "Episode Name": "356: \u2018An Unranted Rant\u2019, With Rosemary Orchard",
+        "Episode Length (Seconds)": 7863
+    },
+    {
+        "Episode Number": 38,
+        "Episode Name": "355: \u2018The Creaturest of Habits\u2019, With Daniel Jalkut",
+        "Episode Length (Seconds)": 9006
+    },
+    {
+        "Episode Number": 39,
+        "Episode Name": "354: \u2018Get Me to the Fainting Couch\u2019, With John Moltz",
+        "Episode Length (Seconds)": 9058
+    },
+    {
+        "Episode Number": 40,
+        "Episode Name": "353: \u2018Shop Different\u2019, With Michael Steeber",
+        "Episode Length (Seconds)": 7448
+    },
+    {
+        "Episode Number": 41,
+        "Episode Name": "352: \u2018I\u2019ve Kissed That Mouse\u2019, With Marco Arment",
+        "Episode Length (Seconds)": 11328
+    },
+    {
+        "Episode Number": 42,
+        "Episode Name": "351: \u2018Here You Go, Cheapskate\u2019, With Rene Ritchie",
+        "Episode Length (Seconds)": 7349
+    },
+    {
+        "Episode Number": 43,
+        "Episode Name": "350: \u2018Your Sack of Meat With Teeth\u2019, With Jason Snell",
+        "Episode Length (Seconds)": 9237
+    },
+    {
+        "Episode Number": 44,
+        "Episode Name": "349: \u2018Live From WWDC 2022\u2019, With Craig Federighi and Greg Joswiak",
+        "Episode Length (Seconds)": 5112
+    },
+    {
+        "Episode Number": 45,
+        "Episode Name": "348: \u2018Joe Biden\u2019s Gum\u2019\u2019, With John Moltz",
+        "Episode Length (Seconds)": 4838
+    },
+    {
+        "Episode Number": 46,
+        "Episode Name": "347: \u2018After Steve\u2019, With Tripp Mickle",
+        "Episode Length (Seconds)": 7607
+    },
+    {
+        "Episode Number": 47,
+        "Episode Name": "346: \u2018Like Neo Dodging Bullets\u2019, With Zach Gage",
+        "Episode Length (Seconds)": 8900
+    },
+    {
+        "Episode Number": 48,
+        "Episode Name": "345: \u2018A Fake Crank on the Web\u2019, With Michael Simmons",
+        "Episode Length (Seconds)": 6439
+    },
+    {
+        "Episode Number": 49,
+        "Episode Name": "344: \u2018Devastation, Pessimism, and Rage\u2019, With Glenn Fleishman",
+        "Episode Length (Seconds)": 6082
+    },
+    {
+        "Episode Number": 50,
+        "Episode Name": "343: \u2018Fussy Typography Improvements\u2019, With Paul Kafasis",
+        "Episode Length (Seconds)": 9912
+    },
+    {
+        "Episode Number": 51,
+        "Episode Name": "342: \u2018Doggy Lake\u2019, With Matthew Panzarino",
+        "Episode Length (Seconds)": 7426
+    },
+    {
+        "Episode Number": 52,
+        "Episode Name": "341: \u2018A Cold Glass in Hell\u2019, With Casey Liss",
+        "Episode Length (Seconds)": 8601
+    },
+    {
+        "Episode Number": 53,
+        "Episode Name": "340: \u2018Billionaires Have Beefs\u2019, With Tom Watson and Daniel Agee",
+        "Episode Length (Seconds)": 7142
+    },
+    {
+        "Episode Number": 54,
+        "Episode Name": "339: \u20182006: Hard Work\u2019, With Ken Kocienda",
+        "Episode Length (Seconds)": 8608
+    },
+    {
+        "Episode Number": 55,
+        "Episode Name": "338: \u2018That\u2019ll Pivot His Tables\u2019, With Rene Ritchie",
+        "Episode Length (Seconds)": 7321
+    },
+    {
+        "Episode Number": 56,
+        "Episode Name": "337: \u2018See Me After Class\u2019, With Jason Snell",
+        "Episode Length (Seconds)": 9978
+    },
+    {
+        "Episode Number": 57,
+        "Episode Name": "336: \u2018He Looked Like a Fred\u2019, With John Moltz",
+        "Episode Length (Seconds)": 5542
+    },
+    {
+        "Episode Number": 58,
+        "Episode Name": "335: \u2018Blofeld-69-420\u2019, With Guy English",
+        "Episode Length (Seconds)": 7553
+    },
+    {
+        "Episode Number": 59,
+        "Episode Name": "334: \u2018High-Margin Candy Bar\u2019, With Dieter Bohn",
+        "Episode Length (Seconds)": 5945
+    },
+    {
+        "Episode Number": 60,
+        "Episode Name": "333: \u2018Schr\u00f6dinger\u2019s Feature\u2019, With Rene Ritchie",
+        "Episode Length (Seconds)": 9901
+    },
+    {
+        "Episode Number": 61,
+        "Episode Name": "332: \u2018The Post-Doom Era\u2019, With Joanna Stern",
+        "Episode Length (Seconds)": 7149
+    },
+    {
+        "Episode Number": 62,
+        "Episode Name": "331: \u2018John Was the Problem\u2019, With Merlin Mann",
+        "Episode Length (Seconds)": 11387
+    },
+    {
+        "Episode Number": 63,
+        "Episode Name": "330: \u2018Headline Goes Here\u2019, With Jim Dalrymple",
+        "Episode Length (Seconds)": 4581
+    },
+    {
+        "Episode Number": 64,
+        "Episode Name": "329: \u2018The Scotland Board of Tourism\u2019, With David Smith",
+        "Episode Length (Seconds)": 5347
+    },
+    {
+        "Episode Number": 65,
+        "Episode Name": "328: \u2018The Warden\u2019s Dilemma\u2019, With Ben Thompson",
+        "Episode Length (Seconds)": 7083
+    },
+    {
+        "Episode Number": 66,
+        "Episode Name": "327: \u2018Giddy With Mac-Ness\u2019, With Daniel Jalkut",
+        "Episode Length (Seconds)": 6240
+    },
+    {
+        "Episode Number": 67,
+        "Episode Name": "326: \u2018A Very Large Nap\u2019, With John Moltz",
+        "Episode Length (Seconds)": 5932
+    },
+    {
+        "Episode Number": 68,
+        "Episode Name": "325: \u2018The Negative Version of Icing on the Cake\u2019, With Nilay Patel",
+        "Episode Length (Seconds)": 8877
+    },
+    {
+        "Episode Number": 69,
+        "Episode Name": "324: \u2018A Pretty Generic Thing You Stick in a Hole\u2019, With Jason Snell",
+        "Episode Length (Seconds)": 8405
+    },
+    {
+        "Episode Number": 70,
+        "Episode Name": "323: \u2018Skeptical Not Cynical\u2019, With Matthew Panzarino",
+        "Episode Length (Seconds)": 5971
+    },
+    {
+        "Episode Number": 71,
+        "Episode Name": "322: \u2018It Was More Arial Than Helvetica\u2019, With Rene Ritchie",
+        "Episode Length (Seconds)": 7469
+    },
+    {
+        "Episode Number": 72,
+        "Episode Name": "321: \u2018Just a Standard Bird\u2019, With MG Siegler",
+        "Episode Length (Seconds)": 7078
+    },
+    {
+        "Episode Number": 73,
+        "Episode Name": "320: \u2018Paper Floor Mats\u2019, With Christina Warren",
+        "Episode Length (Seconds)": 7712
+    },
+    {
+        "Episode Number": 74,
+        "Episode Name": "319: \u2018You Called Him Pixel Mature\u2019, With John Moltz",
+        "Episode Length (Seconds)": 6393
+    },
+    {
+        "Episode Number": 75,
+        "Episode Name": "318: \u2018Holes in the Blast Door\u2019, With Matthew Panzarino",
+        "Episode Length (Seconds)": 7589
+    },
+    {
+        "Episode Number": 76,
+        "Episode Name": "317: \u2018The NOC List\u2019, With Rene Ritchie",
+        "Episode Length (Seconds)": 7130
+    },
+    {
+        "Episode Number": 77,
+        "Episode Name": "316: Remote From WWDC 2021 With Craig Federighi and Greg Joswiak",
+        "Episode Length (Seconds)": 5085
+    },
+    {
+        "Episode Number": 78,
+        "Episode Name": "315: \u2018I Don\u2019t Know How to Read\u2019, With Joanna Stern",
+        "Episode Length (Seconds)": 7047
+    },
+    {
+        "Episode Number": 79,
+        "Episode Name": "314: \u2018Obviously Tier One\u2019, With Marco Arment",
+        "Episode Length (Seconds)": 8098
+    },
+    {
+        "Episode Number": 80,
+        "Episode Name": "313: \u2018The Sour Grapes Commission\u2019, With Glenn Fleishman",
+        "Episode Length (Seconds)": 10739
+    },
+    {
+        "Episode Number": 81,
+        "Episode Name": "312: \u2018Not to Get Zealotrous\u2019, With Craig Mod",
+        "Episode Length (Seconds)": 9396
+    },
+    {
+        "Episode Number": 82,
+        "Episode Name": "311: \u2018Toaster Fridgey\u2019, With Rene Ritchie",
+        "Episode Length (Seconds)": 6905
+    },
+    {
+        "Episode Number": 83,
+        "Episode Name": "310: \u2018Russian Nesting Doll Code\u2019, With Jason Snell",
+        "Episode Length (Seconds)": 9116
+    },
+    {
+        "Episode Number": 84,
+        "Episode Name": "309: \u2018Pinkies on the Semicolon\u2019, With John Siracusa",
+        "Episode Length (Seconds)": 10427
+    },
+    {
+        "Episode Number": 85,
+        "Episode Name": "308: \u2018Peak Hubris\u2019, With Christina Warren",
+        "Episode Length (Seconds)": 8814
+    },
+    {
+        "Episode Number": 86,
+        "Episode Name": "307: \u2018Soviet Toilet Paper\u2019, With John Moltz",
+        "Episode Length (Seconds)": 9423
+    },
+    {
+        "Episode Number": 87,
+        "Episode Name": "306: \u2018A Total Landscaping\u2019, With Mike Monteiro",
+        "Episode Length (Seconds)": 6322
+    },
+    {
+        "Episode Number": 88,
+        "Episode Name": "305: \u2018Star Wars: The Mandalorian\u2019 Holiday Spectacular, With Special Guests Guy English and John Siracusa\u2019",
+        "Episode Length (Seconds)": 10841
+    },
+    {
+        "Episode Number": 89,
+        "Episode Name": "304: \u20182020 Year in Review\u2019, With Rene Ritchie",
+        "Episode Length (Seconds)": 10168
+    },
+    {
+        "Episode Number": 90,
+        "Episode Name": "303: \u2018Half of the Bikini Emoji\u2019, With Matthew Panzarino",
+        "Episode Length (Seconds)": 7282
+    },
+    {
+        "Episode Number": 91,
+        "Episode Name": "302: \u2018Camera Beer Belly\u2019, With Nilay Patel",
+        "Episode Length (Seconds)": 7420
+    },
+    {
+        "Episode Number": 92,
+        "Episode Name": "301: \u2018A Craptastic Craptacular\u2019, With Joanna Stern",
+        "Episode Length (Seconds)": 7208
+    },
+    {
+        "Episode Number": 93,
+        "Episode Name": "300: \u2018Holiday Party 2020\u2019, With Merlin Mann",
+        "Episode Length (Seconds)": 5494
+    },
+    {
+        "Episode Number": 94,
+        "Episode Name": "299: \u2018Sounds Like a Good Red Sauce Place\u2019, With Special Guest Jason Snell",
+        "Episode Length (Seconds)": 9103
+    },
+    {
+        "Episode Number": 95,
+        "Episode Name": "298: \u2018I\u2019m Expecting Led Zeppelin IV\u2019, With Special Guest MG Siegler",
+        "Episode Length (Seconds)": 8677
+    },
+    {
+        "Episode Number": 96,
+        "Episode Name": "297: \u2018Subscribed to a Hamburger\u2019, With David Smith",
+        "Episode Length (Seconds)": 10010
+    },
+    {
+        "Episode Number": 97,
+        "Episode Name": "296: \u2018Cameras Every Single Where\u2019, With Michael Simmons",
+        "Episode Length (Seconds)": 8439
+    },
+    {
+        "Episode Number": 98,
+        "Episode Name": "295: \u2018Signing Up to Take Some Vitamins\u2019, With Peter Kafka",
+        "Episode Length (Seconds)": 4772
+    },
+    {
+        "Episode Number": 99,
+        "Episode Name": "294: \u2018DOS Rot\u2019, With John Moltz",
+        "Episode Length (Seconds)": 5633
+    },
+    {
+        "Episode Number": 100,
+        "Episode Name": "293: \u2018I\u2019m More of a Porkins Guy\u2019, With Anil Dash",
+        "Episode Length (Seconds)": 8637
+    },
+    {
+        "Episode Number": 101,
+        "Episode Name": "292: \u2018Not the Batman We Want or Need\u2019, With Rene Ritchie",
+        "Episode Length (Seconds)": 9583
+    },
+    {
+        "Episode Number": 102,
+        "Episode Name": "291: \u2018Algorithms, How Do They Work?\u2019, With Nilay Patel",
+        "Episode Length (Seconds)": 8482
+    },
+    {
+        "Episode Number": 103,
+        "Episode Name": "290: \u2018The Least Worst\u2019, With Christina Warren",
+        "Episode Length (Seconds)": 9456
+    },
+    {
+        "Episode Number": 104,
+        "Episode Name": "289: \u2018I\u2019m Batman. America. Freedom.\u2019 With Adam Lisagor",
+        "Episode Length (Seconds)": 9593
+    },
+    {
+        "Episode Number": 105,
+        "Episode Name": "288: \u2018It Shouldn\u2019t Be Hard to Get a Smoothie\u2019 With Dan Frommer",
+        "Episode Length (Seconds)": 5044
+    },
+    {
+        "Episode Number": 106,
+        "Episode Name": "287: \u2018Patina of Usefulness\u2019 With Matthew Panzarino",
+        "Episode Length (Seconds)": 4780
+    },
+    {
+        "Episode Number": 107,
+        "Episode Name": "286: Remote From WWDC 2020 With Craig Federighi and Greg Joswiak",
+        "Episode Length (Seconds)": 5748
+    },
+    {
+        "Episode Number": 108,
+        "Episode Name": "285: \u2018Fahrenheit Truthers\u2019 With Ben Thompson",
+        "Episode Length (Seconds)": 8652
+    },
+    {
+        "Episode Number": 109,
+        "Episode Name": "284: \u201830 Years of TidBITS\u2019 With Adam Engst",
+        "Episode Length (Seconds)": 6846
+    },
+    {
+        "Episode Number": 110,
+        "Episode Name": "283: \u2018Some Kind of Sandwich\u2019 With Dieter Bohn",
+        "Episode Length (Seconds)": 6605
+    },
+    {
+        "Episode Number": 111,
+        "Episode Name": "282: \u2018Everybody Is an Expert\u2019 With Joanna Stern",
+        "Episode Length (Seconds)": 7885
+    },
+    {
+        "Episode Number": 112,
+        "Episode Name": "281: \u2018A Kryptonian Baby\u2019 With Rene Ritchie",
+        "Episode Length (Seconds)": 8437
+    },
+    {
+        "Episode Number": 113,
+        "Episode Name": "280: \u2018The Subtle Difference Between Hand Sanitizer and Vodka\u2019 With Matthew Panzarino",
+        "Episode Length (Seconds)": 8777
+    },
+    {
+        "Episode Number": 114,
+        "Episode Name": "279: \u2018Chain of Precision\u2019 With Jason Snell",
+        "Episode Length (Seconds)": 8340
+    },
+    {
+        "Episode Number": 115,
+        "Episode Name": "278: \u2018Dot Net Party\u2019 With Federico Viticci",
+        "Episode Length (Seconds)": 7882
+    },
+    {
+        "Episode Number": 116,
+        "Episode Name": "277: \u2018Polish Stink Eye\u2019 With John Moltz",
+        "Episode Length (Seconds)": 9786
+    },
+    {
+        "Episode Number": 117,
+        "Episode Name": "276: \u2018Bring It On, Haters\u2019 With Ben Thompson",
+        "Episode Length (Seconds)": 10079
+    },
+    {
+        "Episode Number": 118,
+        "Episode Name": "275: \u2018Fake Faces\u2019 With Glenn Fleishman",
+        "Episode Length (Seconds)": 10857
+    },
+    {
+        "Episode Number": 119,
+        "Episode Name": "274: \u2018Sport Mode\u2019 With Merlin Mann",
+        "Episode Length (Seconds)": 7294
+    },
+    {
+        "Episode Number": 120,
+        "Episode Name": "273: \u2018My Cousin Hans\u2019 With Rene Ritchie",
+        "Episode Length (Seconds)": 7144
+    },
+    {
+        "Episode Number": 121,
+        "Episode Name": "272: \u2018The Save Twitch\u2019 With Rich Siegel",
+        "Episode Length (Seconds)": 7144
+    },
+    {
+        "Episode Number": 122,
+        "Episode Name": "271: \u2018A Perfect Wheel\u2019 With Jason Snell",
+        "Episode Length (Seconds)": 9959
+    },
+    {
+        "Episode Number": 123,
+        "Episode Name": "270: \u2018Talking About Crimes\u2019 With Matthew Yglesias",
+        "Episode Length (Seconds)": 7148
+    },
+    {
+        "Episode Number": 124,
+        "Episode Name": "269: \u2018Maximally Thin\u2019 With Casey Johnston",
+        "Episode Length (Seconds)": 6628
+    },
+    {
+        "Episode Number": 125,
+        "Episode Name": "268: \u2018With Ham I\u2019d Be Better\u2019 With Dave Mark",
+        "Episode Length (Seconds)": 8424
+    },
+    {
+        "Episode Number": 126,
+        "Episode Name": "267: \u2018Just the Tips\u2019 With John Moltz",
+        "Episode Length (Seconds)": 7013
+    },
+    {
+        "Episode Number": 127,
+        "Episode Name": "266: \u2018iPhone-Colored Glasses\u2019 With Rene Ritchie",
+        "Episode Length (Seconds)": 8471
+    },
+    {
+        "Episode Number": 128,
+        "Episode Name": "265: \u2018Thompson\u2019s Razor\u2019 With Ben Thompson",
+        "Episode Length (Seconds)": 8708
+    },
+    {
+        "Episode Number": 129,
+        "Episode Name": "264: \u2018Apple Is Not a 4-Star Company\u2019 With Joanna Stern",
+        "Episode Length (Seconds)": 8678
+    },
+    {
+        "Episode Number": 130,
+        "Episode Name": "263: \u2018The Dumbest Thing Possible\u2019 With Dan Frommer",
+        "Episode Length (Seconds)": 7668
+    },
+    {
+        "Episode Number": 131,
+        "Episode Name": "262: \u2018Freakishly Snappy\u2019 With Brent Simmons",
+        "Episode Length (Seconds)": 6626
+    },
+    {
+        "Episode Number": 132,
+        "Episode Name": "261: \u2018Contact Heineken\u2019 With Jim Dalrymple",
+        "Episode Length (Seconds)": 11095
+    },
+    {
+        "Episode Number": 133,
+        "Episode Name": "260: \u2018A Clear Eyed Look at Dishwashers\u2019 With John Siracusa",
+        "Episode Length (Seconds)": 8620
+    },
+    {
+        "Episode Number": 134,
+        "Episode Name": "259: \u2018Start a Bakin\u2019 Timer\u2019 With Marco Arment",
+        "Episode Length (Seconds)": 6451
+    },
+    {
+        "Episode Number": 135,
+        "Episode Name": "258: \u2018Pousse-Caf\u00e9\u2019 With John Moltz",
+        "Episode Length (Seconds)": 8202
+    },
+    {
+        "Episode Number": 136,
+        "Episode Name": "257: \u2018A Beautiful Sandwich\u2019 With Daniel Jalkut",
+        "Episode Length (Seconds)": 7620
+    },
+    {
+        "Episode Number": 137,
+        "Episode Name": "256: \u2018A Bit Too Thin\u2019 With Ben Thompson",
+        "Episode Length (Seconds)": 6982
+    },
+    {
+        "Episode Number": 138,
+        "Episode Name": "255: \u2018Zap the PRAM\u2019 With Jason Snell",
+        "Episode Length (Seconds)": 9993
+    },
+    {
+        "Episode Number": 139,
+        "Episode Name": "254: Live From WWDC 2019 With Craig Federighi and Greg Joswiak",
+        "Episode Length (Seconds)": 6412
+    },
+    {
+        "Episode Number": 140,
+        "Episode Name": "253: \u2018An Italicized \u201cFinally\u201d\u2019 With Rene Ritchie",
+        "Episode Length (Seconds)": 8473
+    },
+    {
+        "Episode Number": 141,
+        "Episode Name": "252: \u2018The Dustin Egress Problem\u2019 With Cabel Sasser, Steven Frank, and Greg Maletic From Panic",
+        "Episode Length (Seconds)": 7807
+    },
+    {
+        "Episode Number": 142,
+        "Episode Name": "251: \u2018Parking Meters in a Dirt Lot\u2019 With Merlin Mann",
+        "Episode Length (Seconds)": 6894
+    },
+    {
+        "Episode Number": 143,
+        "Episode Name": "250: \u2018A Couple of Awkward Swipes\u2019 With MG Siegler",
+        "Episode Length (Seconds)": 9080
+    },
+    {
+        "Episode Number": 144,
+        "Episode Name": "249: \u2018Better Than Nothing\u2019 With John Moltz",
+        "Episode Length (Seconds)": 8018
+    },
+    {
+        "Episode Number": 145,
+        "Episode Name": "248: \u2018Equally Confused\u2019 With Peter Kafka",
+        "Episode Length (Seconds)": 5861
+    },
+    {
+        "Episode Number": 146,
+        "Episode Name": "247: \u2018I Have Faith in the Rice\u2019 With Paul Kafasis",
+        "Episode Length (Seconds)": 8064
+    },
+    {
+        "Episode Number": 147,
+        "Episode Name": "246: \u2018Loan It to Nien Nunb\u2019 With Matthew Panzarino",
+        "Episode Length (Seconds)": 12033
+    },
+    {
+        "Episode Number": 148,
+        "Episode Name": "245: \u201840 Hours a Day of Murder\u2019 With Rene Ritchie",
+        "Episode Length (Seconds)": 10347
+    },
+    {
+        "Episode Number": 149,
+        "Episode Name": "244: \u2018Plagiarists and Fabulists\u2019 With Glenn Fleishman",
+        "Episode Length (Seconds)": 11071
+    },
+    {
+        "Episode Number": 150,
+        "Episode Name": "243: \u2018The God Awful Truth\u2019 With Rich Mogull",
+        "Episode Length (Seconds)": 9702
+    },
+    {
+        "Episode Number": 151,
+        "Episode Name": "242: \u2018The Butts Incident\u2019 With John Moltz",
+        "Episode Length (Seconds)": 7411
+    },
+    {
+        "Episode Number": 152,
+        "Episode Name": "241: \u2018More Smarter\u2019 With Joanna Stern",
+        "Episode Length (Seconds)": 6453
+    },
+    {
+        "Episode Number": 153,
+        "Episode Name": "240: \u2018Drastically Shakier\u2019 With Ben Thompson",
+        "Episode Length (Seconds)": 10075
+    },
+    {
+        "Episode Number": 154,
+        "Episode Name": "239: \u2018Proprioceptive Lie\u2019 With Rene Ritchie",
+        "Episode Length (Seconds)": 8796
+    },
+    {
+        "Episode Number": 155,
+        "Episode Name": "238: \u2018Fort Jason Sudeikis\u2019 With Jason Snell",
+        "Episode Length (Seconds)": 10850
+    },
+    {
+        "Episode Number": 156,
+        "Episode Name": "237: \u2018Out on Home Video\u2019 With Matthew Panzarino",
+        "Episode Length (Seconds)": 7612
+    },
+    {
+        "Episode Number": 157,
+        "Episode Name": "236: \u2018A Vivid Nightmarescape\u2019 With Dieter Bohn",
+        "Episode Length (Seconds)": 9172
+    },
+    {
+        "Episode Number": 158,
+        "Episode Name": "235: \u2018Jony White\u2019s Universe of Objective Purity\u2019 With Rene Ritchie",
+        "Episode Length (Seconds)": 9221
+    },
+    {
+        "Episode Number": 159,
+        "Episode Name": "234: \u2018Welcome to Dongletropolis\u2019 With Merlin Mann",
+        "Episode Length (Seconds)": 10399
+    },
+    {
+        "Episode Number": 160,
+        "Episode Name": "233: \u2018North Korean USB Fan\u2019 With John Moltz",
+        "Episode Length (Seconds)": 6197
+    },
+    {
+        "Episode Number": 161,
+        "Episode Name": "232: \u2018I\u2019ll Eat My Hat\u2019 With John Moltz",
+        "Episode Length (Seconds)": 9318
+    },
+    {
+        "Episode Number": 162,
+        "Episode Name": "231: \u2018It\u2019s a Deep Notch\u2019 With Dan Frommer",
+        "Episode Length (Seconds)": 8873
+    },
+    {
+        "Episode Number": 163,
+        "Episode Name": "230: \u2018Flabbergasting\u2019 With Nilay Patel",
+        "Episode Length (Seconds)": 6848
+    },
+    {
+        "Episode Number": 164,
+        "Episode Name": "229: \u2018iPhone \ud83c\udf78\u2019 With Rene Ritchie",
+        "Episode Length (Seconds)": 6666
+    },
+    {
+        "Episode Number": 165,
+        "Episode Name": "228: \u2018Smallen Up the Bezels\u2019 With Jason Snell",
+        "Episode Length (Seconds)": 9390
+    },
+    {
+        "Episode Number": 166,
+        "Episode Name": "227: \u2018Little Q&A\u2019",
+        "Episode Length (Seconds)": 5952
+    },
+    {
+        "Episode Number": 167,
+        "Episode Name": "226: \u2018Cut That Mustache With Scissors\u2019 With Marco Arment",
+        "Episode Length (Seconds)": 10262
+    },
+    {
+        "Episode Number": 168,
+        "Episode Name": "225: \u2018Resources Up the Yang\u2019 With Matthew Panzarino",
+        "Episode Length (Seconds)": 6150
+    },
+    {
+        "Episode Number": 169,
+        "Episode Name": "224: \u2018AirPower, What\u2019s That?\u2019 With Serenity Caldwell",
+        "Episode Length (Seconds)": 7731
+    },
+    {
+        "Episode Number": 170,
+        "Episode Name": "223: Live From WWDC 2018 With Greg Joswiak and Mike Rockwell",
+        "Episode Length (Seconds)": 4828
+    },
+    {
+        "Episode Number": 171,
+        "Episode Name": "222: \u2018Pseudorandom Gibberish\u2019 With Rene Ritchie",
+        "Episode Length (Seconds)": 5552
+    },
+    {
+        "Episode Number": 172,
+        "Episode Name": "221: \u2018Slathered in Incompetence\u2019 With Ben Thompson",
+        "Episode Length (Seconds)": 11238
+    },
+    {
+        "Episode Number": 173,
+        "Episode Name": "220: \u2018$270 Worth of Unneeded Keyboards\u2019 With Jim Dalrymple",
+        "Episode Length (Seconds)": 7139
+    },
+    {
+        "Episode Number": 174,
+        "Episode Name": "219: \u2018Top Men\u2019 With Matthew Panzarino",
+        "Episode Length (Seconds)": 8028
+    },
+    {
+        "Episode Number": 175,
+        "Episode Name": "218: \u2018Spending Tim Cook\u2019s Money\u2019 With Serenity Caldwell",
+        "Episode Length (Seconds)": 6938
+    },
+    {
+        "Episode Number": 176,
+        "Episode Name": "217: \u2018Our Name Is Our Address\u2019 With Jason Kottke",
+        "Episode Length (Seconds)": 8351
+    },
+    {
+        "Episode Number": 177,
+        "Episode Name": "216: \u2018Podcast Amnesia\u2019 With Jason Snell",
+        "Episode Length (Seconds)": 9069
+    },
+    {
+        "Episode Number": 178,
+        "Episode Name": "215: \u2018The \u201cPress Real Hard\u201d Era\u2019 With Marco Arment",
+        "Episode Length (Seconds)": 14024
+    },
+    {
+        "Episode Number": 179,
+        "Episode Name": "214: \u2018Only Wireless. Less Smart Than an Echo. Lame.\u2019 With Paul Kafasis",
+        "Episode Length (Seconds)": 7815
+    },
+    {
+        "Episode Number": 180,
+        "Episode Name": "213: \u2018Don\u2019t Tap the Monkey\u2019 With John Moltz",
+        "Episode Length (Seconds)": 4952
+    },
+    {
+        "Episode Number": 181,
+        "Episode Name": "212: \u2018Arbiter of Finallys\u2019 With Rene Ritchie",
+        "Episode Length (Seconds)": 8872
+    },
+    {
+        "Episode Number": 182,
+        "Episode Name": "211: \u2018Star Wars: The Last Jedi\u2019 Holiday Spectacular With Special Guests Guy English and John Siracusa",
+        "Episode Length (Seconds)": 10516
+    },
+    {
+        "Episode Number": 183,
+        "Episode Name": "210: \u2018Australian Battery Scam\u2019 With Jason Snell",
+        "Episode Length (Seconds)": 8662
+    },
+    {
+        "Episode Number": 184,
+        "Episode Name": "209: \u2018Blaming a Platypus\u2019 With Matthew Panzarino",
+        "Episode Length (Seconds)": 7624
+    },
+    {
+        "Episode Number": 185,
+        "Episode Name": "208: \u2018Disgusting Inception\u2019 With John Moltz",
+        "Episode Length (Seconds)": 5621
+    },
+    {
+        "Episode Number": 186,
+        "Episode Name": "207: \u2018Christmas Mitzvah\u2019 With Merlin Mann",
+        "Episode Length (Seconds)": 8646
+    },
+    {
+        "Episode Number": 187,
+        "Episode Name": "206: \u2018Bed Is Where My Problems Are\u2019 With Ben Thompson",
+        "Episode Length (Seconds)": 7994
+    },
+    {
+        "Episode Number": 188,
+        "Episode Name": "205: \u2018If You Trust Your Twin\u2019 With Jim Dalrymple",
+        "Episode Length (Seconds)": 5997
+    },
+    {
+        "Episode Number": 189,
+        "Episode Name": "204: \u2018Flaunting That Notch\u2019 With Rene Ritchie",
+        "Episode Length (Seconds)": 6224
+    },
+    {
+        "Episode Number": 190,
+        "Episode Name": "203: \u2018Unused VIPs\u2019 With Serenity Caldwell",
+        "Episode Length (Seconds)": 7321
+    },
+    {
+        "Episode Number": 191,
+        "Episode Name": "202: \u2018You Tell Me If It\u2019s a Dongle\u2019 With Joanna Stern",
+        "Episode Length (Seconds)": 5850
+    },
+    {
+        "Episode Number": 192,
+        "Episode Name": "201: \u2018Much More Smarter\u2019 With Matthew Panzarino",
+        "Episode Length (Seconds)": 10948
+    },
+    {
+        "Episode Number": 193,
+        "Episode Name": "200: \u2018Episode CC\u2019 With Craig Federighi",
+        "Episode Length (Seconds)": 1810
+    },
+    {
+        "Episode Number": 194,
+        "Episode Name": "199: \u2018Under Rumored\u2019 With Jim Dalrymple",
+        "Episode Length (Seconds)": 8833
+    },
+    {
+        "Episode Number": 195,
+        "Episode Name": "198: \u2018Prison Oreos\u2019 With Jason Snell",
+        "Episode Length (Seconds)": 9604
+    },
+    {
+        "Episode Number": 196,
+        "Episode Name": "197: \u2018Nancy Reagan Was Right\u2019 With Glenn Fleishman",
+        "Episode Length (Seconds)": 9553
+    },
+    {
+        "Episode Number": 197,
+        "Episode Name": "196: \u2018Actually, You Can Buy a Better Coke\u2019 With Rene Ritchie",
+        "Episode Length (Seconds)": 7612
+    },
+    {
+        "Episode Number": 198,
+        "Episode Name": "195: \u2018I Do Like Throwing a Baby\u2019 With John Moltz",
+        "Episode Length (Seconds)": 6819
+    },
+    {
+        "Episode Number": 199,
+        "Episode Name": "194: \u2018Egg Freckles\u2019 With Serenity Caldwell",
+        "Episode Length (Seconds)": 7569
+    },
+    {
+        "Episode Number": 200,
+        "Episode Name": "193: \u2018Crack Marketing Team\u2019 \u2014 Live From WWDC 2017 With Phil Schiller and Craig Federighi",
+        "Episode Length (Seconds)": 5506
+    },
+    {
+        "Episode Number": 201,
+        "Episode Name": "192: \u2018The Original Sin Is XML\u2019 With Special Guests Manton Reece and Brent Simmons",
+        "Episode Length (Seconds)": 7132
+    },
+    {
+        "Episode Number": 202,
+        "Episode Name": "191: \u2018He Ends Up Fighting Herv\u00e9 Villechaize\u2019 With Jim Dalrymple",
+        "Episode Length (Seconds)": 8722
+    },
+    {
+        "Episode Number": 203,
+        "Episode Name": "190: \u2018Anything Luxury\u2019 With Ben Thompson",
+        "Episode Length (Seconds)": 12136
+    },
+    {
+        "Episode Number": 204,
+        "Episode Name": "189: \u2018Long Press on the French Fries\u2019 With Rene Ritchie",
+        "Episode Length (Seconds)": 8053
+    },
+    {
+        "Episode Number": 205,
+        "Episode Name": "188: \u2018Apple VP Lisa Jackson\u2019",
+        "Episode Length (Seconds)": 3385
+    },
+    {
+        "Episode Number": 206,
+        "Episode Name": "187: \u2018Forget About Frodo and Sam\u2019 With MG Siegler",
+        "Episode Length (Seconds)": 8793
+    },
+    {
+        "Episode Number": 207,
+        "Episode Name": "186: \u2018Good News, My House Burned Down\u2019 With Matthew Panzarino",
+        "Episode Length (Seconds)": 7413
+    },
+    {
+        "Episode Number": 208,
+        "Episode Name": "185: \u2018Warmest Regards\u2019 With Dan Frommer",
+        "Episode Length (Seconds)": 8500
+    },
+    {
+        "Episode Number": 209,
+        "Episode Name": "184: \u2018Hubbo Is in Decline\u2019 With Merlin Mann",
+        "Episode Length (Seconds)": 5646
+    },
+    {
+        "Episode Number": 210,
+        "Episode Name": "183: \u2018A Very Masculine Bark\u2019 With Serenity Caldwell",
+        "Episode Length (Seconds)": 7611
+    },
+    {
+        "Episode Number": 211,
+        "Episode Name": "182: \u2018AAA Podcast\u2019 With Marco Arment",
+        "Episode Length (Seconds)": 9598
+    },
+    {
+        "Episode Number": 212,
+        "Episode Name": "181: \u2018Corporate Stiffy\u2019 With John Moltz",
+        "Episode Length (Seconds)": 6037
+    },
+    {
+        "Episode Number": 213,
+        "Episode Name": "180: \u2018Yay or Nay to Their POV\u2019 With Matthew Panzarino",
+        "Episode Length (Seconds)": 6533
+    },
+    {
+        "Episode Number": 214,
+        "Episode Name": "179: \u2018iPhone Is the New Hitler\u2019 With Ben Thompson",
+        "Episode Length (Seconds)": 8069
+    },
+    {
+        "Episode Number": 215,
+        "Episode Name": "178: \u2018Now Banned in China\u2019 With Jim Dalrymple",
+        "Episode Length (Seconds)": 7709
+    },
+    {
+        "Episode Number": 216,
+        "Episode Name": "177: \u2018Surface Curious\u2019 With Rene Ritchie",
+        "Episode Length (Seconds)": 7339
+    },
+    {
+        "Episode Number": 217,
+        "Episode Name": "176: \u2018Frolic\u2019 With Craig Hockenberry",
+        "Episode Length (Seconds)": 7346
+    },
+    {
+        "Episode Number": 218,
+        "Episode Name": "175: \u2018Uncle Joe\u2019s Bathtub Gin\u2019 With Glenn Fleishman",
+        "Episode Length (Seconds)": 7124
+    },
+    {
+        "Episode Number": 219,
+        "Episode Name": "174: \u2018Election Escape Key\u2019 With Joanna Stern",
+        "Episode Length (Seconds)": 7310
+    },
+    {
+        "Episode Number": 220,
+        "Episode Name": "173: \u2018Fork the Universe\u2019 With Jason Snell",
+        "Episode Length (Seconds)": 9663
+    },
+    {
+        "Episode Number": 221,
+        "Episode Name": "172: \u2018Holiday Party\u2019 With Merlin Mann",
+        "Episode Length (Seconds)": 7623
+    },
+    {
+        "Episode Number": 222,
+        "Episode Name": "171: \u2018Prisoner\u2019s Dilemma Multitasking\u2019 With John Moltz",
+        "Episode Length (Seconds)": 7561
+    },
+    {
+        "Episode Number": 223,
+        "Episode Name": "170: \u2018Kicking Dirt on Them While They\u2019re on Fire\u2019 With Ben Thompson",
+        "Episode Length (Seconds)": 10279
+    },
+    {
+        "Episode Number": 224,
+        "Episode Name": "169: \u2018A Murder of Eeros\u2019 With Matthew Panzarino",
+        "Episode Length (Seconds)": 7140
+    },
+    {
+        "Episode Number": 225,
+        "Episode Name": "168: \u2018You\u2019ve Got the Nubbin\u2019 With Serenity Caldwell",
+        "Episode Length (Seconds)": 9310
+    },
+    {
+        "Episode Number": 226,
+        "Episode Name": "167: \u2018Hey Bruh You Bumped Muh Hat\u2019 With Jim Dalrymple",
+        "Episode Length (Seconds)": 8840
+    },
+    {
+        "Episode Number": 227,
+        "Episode Name": "166: \u2018Way of the Future\u2019 With Rene Ritchie",
+        "Episode Length (Seconds)": 6707
+    },
+    {
+        "Episode Number": 228,
+        "Episode Name": "165: \u2018I Do Feel the Pea\u2019 With Guy English",
+        "Episode Length (Seconds)": 7707
+    },
+    {
+        "Episode Number": 229,
+        "Episode Name": "164: \u2018Enjoyably Clicky\u2019 With Jason Snell",
+        "Episode Length (Seconds)": 8664
+    },
+    {
+        "Episode Number": 230,
+        "Episode Name": "163: \u2018Low Grade Scam\u2019 With Joanna Stern",
+        "Episode Length (Seconds)": 5128
+    },
+    {
+        "Episode Number": 231,
+        "Episode Name": "162: \u2018Special Bullying Venue\u2019 With Glenn Fleishman",
+        "Episode Length (Seconds)": 9520
+    },
+    {
+        "Episode Number": 232,
+        "Episode Name": "161: \u2018Mumbles and Grunts\u2019 With John Moltz",
+        "Episode Length (Seconds)": 7561
+    },
+    {
+        "Episode Number": 233,
+        "Episode Name": "160: \u2018Fresh Out of Prison\u2019 With Nilay Patel",
+        "Episode Length (Seconds)": 6430
+    },
+    {
+        "Episode Number": 234,
+        "Episode Name": "159: \u2018Phil Z\u2019 With Marco Arment",
+        "Episode Length (Seconds)": 9890
+    },
+    {
+        "Episode Number": 235,
+        "Episode Name": "158: Live From WWDC 2016 With Guests Phil Schiller and Craig Federighi",
+        "Episode Length (Seconds)": 4685
+    },
+    {
+        "Episode Number": 236,
+        "Episode Name": "157: \u2018A Nokia Phone and Some Pills (WWDC Prelude)\u2019 With Dan Frommer",
+        "Episode Length (Seconds)": 8692
+    },
+    {
+        "Episode Number": 237,
+        "Episode Name": "156: \u2018Yo, Dingus\u2019 With Merlin Mann",
+        "Episode Length (Seconds)": 7115
+    },
+    {
+        "Episode Number": 238,
+        "Episode Name": "155: \u2018Medium Rare MacBook\u2019 With MG Siegler",
+        "Episode Length (Seconds)": 8570
+    },
+    {
+        "Episode Number": 239,
+        "Episode Name": "154: \u2018Facebook on Your Face\u2019 With Rene Ritchie",
+        "Episode Length (Seconds)": 7893
+    },
+    {
+        "Episode Number": 240,
+        "Episode Name": "153: \u2018Chock Full of Whimsy\u2019 With Ben Thompson",
+        "Episode Length (Seconds)": 10722
+    },
+    {
+        "Episode Number": 241,
+        "Episode Name": "152: \u2018The Greatest Mic Drop I\u2019ve Ever Seen\u2019 With Guy English",
+        "Episode Length (Seconds)": 9854
+    },
+    {
+        "Episode Number": 242,
+        "Episode Name": "151: \u2018Option P\u2019 With Serenity Caldwell",
+        "Episode Length (Seconds)": 7768
+    },
+    {
+        "Episode Number": 243,
+        "Episode Name": "150: \u2018Strict Robot Definer\u2019 With Jason Snell",
+        "Episode Length (Seconds)": 10273
+    },
+    {
+        "Episode Number": 244,
+        "Episode Name": "149: \u2018With Apologies to Hamilton\u2019 With Glenn Fleishman",
+        "Episode Length (Seconds)": 8348
+    },
+    {
+        "Episode Number": 245,
+        "Episode Name": "148: \u2018Occupy Portland\u2019 With John Moltz",
+        "Episode Length (Seconds)": 8455
+    },
+    {
+        "Episode Number": 246,
+        "Episode Name": "147: \u2018iTools or Whatever\u2019 With Jim Dalrymple",
+        "Episode Length (Seconds)": 7127
+    },
+    {
+        "Episode Number": 247,
+        "Episode Name": "146: \u2018\u201cThey Might Be Giants\u201d With a Spanish Accent\u2019 With Special Guests Eddy Cue and Craig Federighi",
+        "Episode Length (Seconds)": 3395
+    },
+    {
+        "Episode Number": 248,
+        "Episode Name": "145: \u2018Anthropomorphic Human Bowel\u2019 With Ben Thompson",
+        "Episode Length (Seconds)": 6575
+    },
+    {
+        "Episode Number": 249,
+        "Episode Name": "144: \u2018Hopped Up on Holiday Juice\u2019 With Matthew Panzarino",
+        "Episode Length (Seconds)": 8068
+    },
+    {
+        "Episode Number": 250,
+        "Episode Name": "143: \u2018A Squirrel Eating a Duck\u2019 With Merlin Mann",
+        "Episode Length (Seconds)": 10097
+    },
+    {
+        "Episode Number": 251,
+        "Episode Name": "142: \u2018They Sherlocked F.lux\u2019 With Dan Frommer",
+        "Episode Length (Seconds)": 8003
+    },
+    {
+        "Episode Number": 252,
+        "Episode Name": "141: \u2018Star Wars: The Force Awakens\u2019 Holiday Spectacular With Special Guests Guy English, Amy Jane Gruber, and More",
+        "Episode Length (Seconds)": 8946
+    },
+    {
+        "Episode Number": 253,
+        "Episode Name": "140: \u2018Apple\u2019s 2015 Year in Review\u2019 With Rene Ritchie",
+        "Episode Length (Seconds)": 11253
+    },
+    {
+        "Episode Number": 254,
+        "Episode Name": "139: \u2018How Many Fingers Should This Baby Have?\u2019 With Special Guests Craig Federighi and John Siracusa",
+        "Episode Length (Seconds)": 12033
+    },
+    {
+        "Episode Number": 255,
+        "Episode Name": "138: \u2018I\u2019ve Been Using Mine More in Bed\u2019 With Joanna Stern",
+        "Episode Length (Seconds)": 8351
+    },
+    {
+        "Episode Number": 256,
+        "Episode Name": "137: \u2018Peak Rumor Season\u2019 With John Moltz",
+        "Episode Length (Seconds)": 6374
+    },
+    {
+        "Episode Number": 257,
+        "Episode Name": "136: \u2018Fully Charged Pencil\u2019 With Jason Snell",
+        "Episode Length (Seconds)": 8035
+    },
+    {
+        "Episode Number": 258,
+        "Episode Name": "135: \u2018Put a Nipple on It\u2019 With Adam Lisagor",
+        "Episode Length (Seconds)": 9293
+    },
+    {
+        "Episode Number": 259,
+        "Episode Name": "134: \u2018Field Sobriety Test\u2019 With Guy English",
+        "Episode Length (Seconds)": 8942
+    },
+    {
+        "Episode Number": 260,
+        "Episode Name": "133: \u2018The MacGuffin Tractor\u2019 With Serenity Caldwell",
+        "Episode Length (Seconds)": 9185
+    },
+    {
+        "Episode Number": 261,
+        "Episode Name": "132: \u2018Peace, Porn, and Privacy\u2019 With Guest Marco Arment",
+        "Episode Length (Seconds)": 11662
+    },
+    {
+        "Episode Number": 262,
+        "Episode Name": "131: \u2018If Only the Death Star Had That\u2019 With Guest Rene Ritchie",
+        "Episode Length (Seconds)": 9542
+    },
+    {
+        "Episode Number": 263,
+        "Episode Name": "130: \u2018A Full Canseco\u2019 With Guest John Moltz",
+        "Episode Length (Seconds)": 9602
+    },
+    {
+        "Episode Number": 264,
+        "Episode Name": "129: \u201890 Minutes or Bust\u2019 With Guest Ben Thompson",
+        "Episode Length (Seconds)": 6960
+    },
+    {
+        "Episode Number": 265,
+        "Episode Name": "128: \u2018Did You Ever Take a Photograph?\u2019 With Guest Matthew Panzarino",
+        "Episode Length (Seconds)": 8777
+    },
+    {
+        "Episode Number": 266,
+        "Episode Name": "127: \u2018A Sack Full of Plucked Feathers\u2019 With Guest John Moltz",
+        "Episode Length (Seconds)": 7186
+    },
+    {
+        "Episode Number": 267,
+        "Episode Name": "126: \u2018Tommy Got Made\u2019 With Guest Jason Snell",
+        "Episode Length (Seconds)": 10383
+    },
+    {
+        "Episode Number": 268,
+        "Episode Name": "125: \u2018They Buy a Hole in the Wall\u2019 With Guest Horace Dediu",
+        "Episode Length (Seconds)": 6986
+    },
+    {
+        "Episode Number": 269,
+        "Episode Name": "124: \u2018Schiller Did Not Have to Put Up With This Bullshit\u2019 With Guest Guy English",
+        "Episode Length (Seconds)": 8343
+    },
+    {
+        "Episode Number": 270,
+        "Episode Name": "123: Live From WWDC 2015 With Guest Phil Schiller",
+        "Episode Length (Seconds)": 4118
+    },
+    {
+        "Episode Number": 271,
+        "Episode Name": "122: \u2018Everyone Needs a Jerk\u2019 With Guest Mark Gurman",
+        "Episode Length (Seconds)": 8541
+    },
+    {
+        "Episode Number": 272,
+        "Episode Name": "121: \u2018He Was Sort of Anti-Golf\u2019 With Guest Rene Ritchie",
+        "Episode Length (Seconds)": 8289
+    },
+    {
+        "Episode Number": 273,
+        "Episode Name": "120: \u2018The Move to Frisco\u2019 With Guest Dan Frommer",
+        "Episode Length (Seconds)": 8293
+    },
+    {
+        "Episode Number": 274,
+        "Episode Name": "119: \u2018Workin\u2019 in Pajamas\u2019 With Guest David Sparks",
+        "Episode Length (Seconds)": 9165
+    },
+    {
+        "Episode Number": 275,
+        "Episode Name": "118: \u2018Sloppy on the Side\u2019 With Guest Adam Lisagor",
+        "Episode Length (Seconds)": 7948
+    },
+    {
+        "Episode Number": 276,
+        "Episode Name": "117: \u2018I Touched Ron Johnson\u2019 With Guest John Moltz",
+        "Episode Length (Seconds)": 9167
+    },
+    {
+        "Episode Number": 277,
+        "Episode Name": "116: \u2018Browser Pooped on the Wee-Wee Pad\u2019 With Guest Joanna Stern",
+        "Episode Length (Seconds)": 9241
+    },
+    {
+        "Episode Number": 278,
+        "Episode Name": "115: \u2018Turd on the Front Porch\u2019 With Guest Ben Thompson",
+        "Episode Length (Seconds)": 9256
+    },
+    {
+        "Episode Number": 279,
+        "Episode Name": "114: \u2018All of Us Assholes in Journalism\u2019 With Guest Serenity Caldwell",
+        "Episode Length (Seconds)": 8398
+    },
+    {
+        "Episode Number": 280,
+        "Episode Name": "113: \u2018A Tube of Lubricant for Your Life\u2019 With Guest Matthew Panzarino",
+        "Episode Length (Seconds)": 10634
+    },
+    {
+        "Episode Number": 281,
+        "Episode Name": "112: \u2018Retina Quality\u2019 With Guest Paul Kafasis",
+        "Episode Length (Seconds)": 8535
+    },
+    {
+        "Episode Number": 282,
+        "Episode Name": "111: \u201812 Hours a Day\u2019 With Guest John Moltz",
+        "Episode Length (Seconds)": 7142
+    },
+    {
+        "Episode Number": 283,
+        "Episode Name": "110: \u2018Rats in the Lobby\u2019 With Guest Merlin Mann",
+        "Episode Length (Seconds)": 7725
+    },
+    {
+        "Episode Number": 284,
+        "Episode Name": "109: \u2018How Many Keys?\u2019 With Guest MG Siegler",
+        "Episode Length (Seconds)": 6817
+    },
+    {
+        "Episode Number": 285,
+        "Episode Name": "108: \u2018Malaprops\u2019 With Guest Ben Thompson",
+        "Episode Length (Seconds)": 11433
+    },
+    {
+        "Episode Number": 286,
+        "Episode Name": "107: \u2018Now It\u2019s All Floppy\u2019 With Guest Marco Arment",
+        "Episode Length (Seconds)": 11089
+    },
+    {
+        "Episode Number": 287,
+        "Episode Name": "106: \u2018Star Wars Holiday Spectacular\u2019 With Guests John Siracusa and Guy English",
+        "Episode Length (Seconds)": 13493
+    },
+    {
+        "Episode Number": 288,
+        "Episode Name": "105: \u2018George Lucas Called\u2019 With Guest Jason Snell",
+        "Episode Length (Seconds)": 8224
+    },
+    {
+        "Episode Number": 289,
+        "Episode Name": "104: \u20182014 Year in Review\u2019 With Guest Rene Ritchie",
+        "Episode Length (Seconds)": 8294
+    },
+    {
+        "Episode Number": 290,
+        "Episode Name": "103: \u2018Robotitize the Assembly\u2019 With Guest Dan Frommer",
+        "Episode Length (Seconds)": 6920
+    },
+    {
+        "Episode Number": 291,
+        "Episode Name": "102: \u2018Maybe You Don\u2019t Take an Apprentice\u2019 With Dave Wiskus",
+        "Episode Length (Seconds)": 10594
+    },
+    {
+        "Episode Number": 292,
+        "Episode Name": "101: \u2018Like a Butt Crack\u2019 With Christa Mrgan",
+        "Episode Length (Seconds)": 5397
+    },
+    {
+        "Episode Number": 293,
+        "Episode Name": "100: \u2018People Are Gay All the Time\u2019 With John Moltz",
+        "Episode Length (Seconds)": 8819
+    },
+    {
+        "Episode Number": 294,
+        "Episode Name": "XCIX: \u2018The Smoker Channels\u2019 With Merlin Mann",
+        "Episode Length (Seconds)": 9555
+    },
+    {
+        "Episode Number": 295,
+        "Episode Name": "98: \u2018Far Less Eloquent as You\u2019 With John Siracusa",
+        "Episode Length (Seconds)": 11073
+    },
+    {
+        "Episode Number": 296,
+        "Episode Name": "97: \u2018Copious Software Projects\u2019 With Guy English",
+        "Episode Length (Seconds)": 9920
+    },
+    {
+        "Episode Number": 297,
+        "Episode Name": "96: \u2018The Edition Edition\u2019 With Ben \u2018Bengate\u2019 Thompson",
+        "Episode Length (Seconds)": 10210
+    },
+    {
+        "Episode Number": 298,
+        "Episode Name": "95: \u2018Twenty-One Thousand Words\u2019 With Rene Ritchie",
+        "Episode Length (Seconds)": 6944
+    },
+    {
+        "Episode Number": 299,
+        "Episode Name": "94: \u2018Very Few Outhouses Anymore\u2019 With Jason Snell",
+        "Episode Length (Seconds)": 8772
+    },
+    {
+        "Episode Number": 300,
+        "Episode Name": "93: \u2018Toner-Perfect Design\u2019 With Craig Hockenberry",
+        "Episode Length (Seconds)": 8633
+    },
+    {
+        "Episode Number": 301,
+        "Episode Name": "92: \u2018That New Laptop Smell\u2019 With Joanna Stern",
+        "Episode Length (Seconds)": 6885
+    },
+    {
+        "Episode Number": 302,
+        "Episode Name": "91: \u2018BlackBerry Is Still Technically in Business\u2019 With Dan Frommer",
+        "Episode Length (Seconds)": 8238
+    },
+    {
+        "Episode Number": 303,
+        "Episode Name": "90: \u2018Jamming More RAM in for Free\u2019 With John Moltz",
+        "Episode Length (Seconds)": 7194
+    },
+    {
+        "Episode Number": 304,
+        "Episode Name": "89: \u2018Cat Pictures\u2019 With Marco Arment (Side 2)",
+        "Episode Length (Seconds)": 5963
+    },
+    {
+        "Episode Number": 305,
+        "Episode Name": "88: \u2018Cat Pictures\u2019 With Marco Arment (Side 1)",
+        "Episode Length (Seconds)": 6330
+    },
+    {
+        "Episode Number": 306,
+        "Episode Name": "87: \u2018Free Alcoholic Beverages\u2019 With Ben Thompson",
+        "Episode Length (Seconds)": 7426
+    },
+    {
+        "Episode Number": 307,
+        "Episode Name": "86: \u2018Diddling Your Feeds\u2019 With Dave Wiskus",
+        "Episode Length (Seconds)": 8822
+    },
+    {
+        "Episode Number": 308,
+        "Episode Name": "85: \u2018Oh Man, Soccer\u2019 With Paul Kafasis",
+        "Episode Length (Seconds)": 6740
+    },
+    {
+        "Episode Number": 309,
+        "Episode Name": "84: \u2018Doctoring the Ball\u2019 With Guy English",
+        "Episode Length (Seconds)": 6718
+    },
+    {
+        "Episode Number": 310,
+        "Episode Name": "83: Live From WWDC 2014 With Marco Arment, Casey Liss, John Siracusa, and Scott Simpson",
+        "Episode Length (Seconds)": 6538
+    },
+    {
+        "Episode Number": 311,
+        "Episode Name": "82: \u2018We're Allowed to Make Stuff Up; It's a Podcast\u2019 With Dan Frommer",
+        "Episode Length (Seconds)": 6615
+    },
+    {
+        "Episode Number": 312,
+        "Episode Name": "81: \u2018Bring Back Jerry Yang\u2019 With John Moltz",
+        "Episode Length (Seconds)": 5687
+    }
+]
