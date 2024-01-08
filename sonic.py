@@ -3,8 +3,9 @@ import feedparser
 import sys
 import json
 
+# Function takes in the string of iTunes_duration and parses it out to read as seconds.
+
 def parse_duration(duration_str):
-    """Convert iTunes duration string to seconds."""
     parts = duration_str.split(':')
     parts = [int(part) for part in parts]
 
@@ -19,13 +20,15 @@ def parse_duration(duration_str):
 
 def parse_podcast_rss(rss_url, csv_file_name, json_file_name):
     # Parse the RSS feed
+    print('Running the parser...')
     feed = feedparser.parse(rss_url)
 
-    # List to store episode data
+    # List to store episode data. Note: this is primarily used for the JSON file; it can be removed if that is no longer required.
     episodes = []
 
     # Create a CSV file with the specified name
     with open(csv_file_name, 'w', newline='', encoding='utf-8') as csvfile:
+        print('Writing to CSV...')
         writer = csv.writer(csvfile)
         writer.writerow(['Episode Number', 'Episode Name', 'Episode Length (Seconds)'])
 
@@ -48,7 +51,10 @@ def parse_podcast_rss(rss_url, csv_file_name, json_file_name):
 
     # Write data to a JSON file
     with open(json_file_name, 'w', encoding='utf-8') as jsonfile:
+        print('Writing to JSON...')
         json.dump(episodes, jsonfile, indent=4)
+
+    print('Success!')
 
 if __name__ == "__main__":
     if len(sys.argv) < 4:
