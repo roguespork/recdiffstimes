@@ -2,10 +2,10 @@ import sys
 import csv
 import feedparser
 
-def parse_podcast_rss(rss_url):
+def parse_podcast_rss(csv_file_name, rss_url):
     feed = feedparser.parse(rss_url)
 
-    with open('podcast_episodes.csv', 'w', newline='', encoding='utf-8') as file:
+    with open(csv_file_name, 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
         writer.writerow(['Episode Number', 'Episode Name', 'Episode Length'])
 
@@ -21,5 +21,6 @@ if __name__ == "__main__":
         print("Usage: python3 recdiffs.py <rss_url>")
         sys.exit(1)
     
-    rss_url = sys.argv[1]
-    parse_podcast_rss(rss_url)
+    csv_file_name = sys.argv[1]
+    rss_url = sys.argv[2]
+    parse_podcast_rss(csv_file_name, rss_url)
