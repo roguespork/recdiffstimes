@@ -32,7 +32,7 @@ def parse_podcast_rss(rss_url, csv_file_name, json_file_name):
         writer = csv.writer(csvfile)
         writer.writerow(['Episode Number', 'Episode Name', 'Episode Length (Seconds)'])
 
-        # Iterate over each entry (episode) in the feed
+        # Iterate over each episode
         for i, entry in enumerate(feed.entries, start=1):
             episode_number = i
             episode_name = entry.title
